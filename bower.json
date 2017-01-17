@@ -1,0 +1,21 @@
+{
+  "name": "zhihu",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "gaokaomim <gaokaomim@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gaokaomim/first-reactDom",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
