@@ -1,1 +1,21 @@
-这个是模拟知乎界面的react的demo,相比较之前那个难度更大,这个demo将页面分成不同的组件,主要用到的安装生产环境依赖包是react+react-dom+bootstrap,安装必要的开发工具是gulp+gulp-browserify+gulp-concat+gulp-connect
+# sell
+
+> sell app
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
